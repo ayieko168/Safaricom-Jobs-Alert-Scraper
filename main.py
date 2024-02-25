@@ -62,7 +62,7 @@ async def get_data():
                     difference = current_date - datetime_obj
                     
                     message_str = f"{count+1} {str(job['job_title']).upper()} - {job['job_location']} \n\n{job['job_short_description']} \n\n{difference.days} Days Ago. "
-                    message_str += f'<a href="{job['job_link']}"> Apply here</a>'
+                    message_str += f"<a href='{job['job_link']}'> Apply here</a>"
                     # message_str = clean_text(message_str)
                     print(message_str)
                         
