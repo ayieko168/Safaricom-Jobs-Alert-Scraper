@@ -1,6 +1,7 @@
 
 import requests
 import json
+import hashlib
 
 class APIIndexer:
     
@@ -31,6 +32,7 @@ class APIIndexer:
         for job in jobs_list:
             
             job_description = {
+                'job_hash': hashlib.md5(f"{job['Id']} {job['Title']} {job['PostedDate']}".encode('utf-8')).hexdigest(),
                 'job_id': job['Id'],
                 'job_title': job['Title'],
                 'job_post_date': job['PostedDate'],

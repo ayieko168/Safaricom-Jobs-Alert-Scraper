@@ -1,21 +1,60 @@
 [
   {
-    "job_id": "211",
-    "job_title": "PRINCIPAL, CYBER PREVENT ENGINEER",
-    "job_post_date": "2023-12-19T08:15:43+00:00",
-    "job_short_description": "PRINCIPAL, CYBER PREVENT ENGINEER",
-    "job_location": "Kenya (KE)",
-    "job_link": "https://egjd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/211"
+    "job_hash": "8d20f4dca46573b19ef0bd20ece5fe78",
+    "job_id": "234",
+    "job_title": "Administrative Assistant",
+    "job_post_date": "2024-02-22T13:23:59+00:00",
+    "job_short_description": "We are pleased to announce the vacancy for Administrative Assistant within Public Sector Digital transformation in PSDT Tribes. In keeping with our current business needs, we are looking for a person who meets the criteria indicated below.",
+    "job_location": "Nairobi, Kenya (KE)",
+    "job_link": "https://egjd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/234"
   },
   {
-    "job_id": "212",
-    "job_title": "Lead \u2013 International Money Transfer",
-    "job_post_date": "2023-12-19T09:32:23+00:00",
-    "job_short_description": "We are pleased to announce the following vacancy Lead \u2013 International Money Transfer in Financial Services Cluster in Payments Tribe within Financial Services Division. In keeping with our current business needs, we are looking for a person who meets the criteria indicated below.\n",
+    "job_hash": "a9ab299bbf39d84cc1e1b63d1559303e",
+    "job_id": "254",
+    "job_title": "Consumer Credit Specialist",
+    "job_post_date": "2024-02-22T09:31:14+00:00",
+    "job_short_description": "We are pleased to announce the following vacancy Consumer Credit Specialist within Financial Services Cluster. In keeping with our current business needs, we are looking for a person who meets the criteria indicated below.",
     "job_location": "Safaricom House-Hq, Kenya (KE)",
-    "job_link": "https://egjd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/212"
+    "job_link": "https://egjd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/254"
   },
   {
+    "job_hash": "325b9552c06f14ba656d049daa6e9570",
+    "job_id": "250",
+    "job_title": "Safaricom Internship Program",
+    "job_post_date": "2024-02-21T05:36:26+00:00",
+    "job_short_description": "Safaricom is looking for potential young talent to join our team though the annual internship program for the year 2024/25 in the Commercial, Business Development & Technology Functions.",
+    "job_location": "Nairobi, Kenya (KE)",
+    "job_link": "https://egjd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/250"
+  },
+  {
+    "job_hash": "a754ab314b00ede0d96ec377b1c3d591",
+    "job_id": "251",
+    "job_title": "Data Scientist",
+    "job_post_date": "2024-02-21T15:16:06+00:00",
+    "job_short_description": "Entry level Data Scientist role within the Big Data & Analytics",
+    "job_location": "Nairobi, Kenya (KE)",
+    "job_link": "https://egjd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/251"
+  },
+  {
+    "job_hash": "bd0f8503422d069ff887ed906dea3a14",
+    "job_id": "255",
+    "job_title": "Integrated Credit Solutions Specialist",
+    "job_post_date": "2024-02-21T06:07:47+00:00",
+    "job_short_description": "We are pleased to announce the following vacancy Integrated Credit Solutions Specialist\u00a0 within Financial Services Cluster. In keeping with our current business needs, we are looking for a person who meets the criteria indicated below.",
+    "job_location": "Safaricom House-Hq, Kenya (KE)",
+    "job_link": "https://egjd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/255"
+  },
+  {
+    "job_hash": "833a98e9077e743cf243379b11a94b39",
+    "job_id": "260",
+    "job_title": "M-Pesa Africa - Capability & Skills Specialist",
+    "job_post_date": "2024-02-21T14:46:17+00:00",
+    "job_short_description": "At M-Pesa Africa, we are a united, energetic and passionate team. A place where leaders coach, teams connect, and everyone is empowered to go further, faster. A place where heroes become superheroes; through growth, opportunity, and the chance to work with the best minds in FinTech. \n",
+    "job_location": "Nairobi, Kenya (KE)",
+    "job_link": "https://egjd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/260"
+  },
+  {
+    "job_hash": "adb6dace4edcf4dbd18d1f3656c22fc5",
     "job_id": "207",
     "job_title": "M-Pesa Africa - Evergreen Requisition Specialist \u2013 Cyber Security Prevent",
     "job_post_date": "2023-12-15T09:15:44+00:00",
@@ -24,6 +63,7 @@
     "job_link": "https://egjd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/207"
   },
   {
+    "job_hash": "9a67715a00c949b333bf13ac91bc5054",
     "job_id": "203",
     "job_title": "M-Pesa Africa - Evergreen Requisition Manager Cyber Security Defense",
     "job_post_date": "2023-12-13T11:49:30+00:00",

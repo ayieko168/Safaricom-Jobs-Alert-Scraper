@@ -94,7 +94,7 @@ async def subscribe_to_alerts(update: Update, context: ContextTypes.DEFAULT_TYPE
         for key, value in env_values.items():
             f.write(f'{key}=\"{value}\"\n')
             
-    await update.message.reply_text("Done. You will recieve new job updates.")
+    await update.message.reply_text("Done. You will receive new job updates.")
 
 
 async def un_subscribe_to_alerts(update: Update, context: ContextTypes.DEFAULT_TYPE):
