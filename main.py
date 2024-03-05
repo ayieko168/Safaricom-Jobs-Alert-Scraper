@@ -69,7 +69,6 @@ async def get_data():
                     ## Send the message
                     await bot.send_message(chat_id=user_id, text=message_str, parse_mode=ParseMode.HTML)
                     
-                await bot.send_message(chat_id=user_id, text=message_str)
             else:
                 print("No new jobs found.")
 
